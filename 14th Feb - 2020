@@ -1,0 +1,9 @@
+Successfully completed refactoring "EmployeePulse" website.
+Things which i changed:
+  1. made a base.html file and created a parent child relation
+  2. fixed all the off-set buttons and icons 
+  3. changed the UI a bit and updated.
+  4. Increased the responsiveness of the website.
+  
+  
+  
