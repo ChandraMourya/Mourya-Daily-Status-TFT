@@ -1,0 +1,3 @@
+wrote code for east and pytesseract all again because the png file wasnt getting recognized by pytesseract
+understood that pytesseract is not for distorted and disturbed text extraction.
+lesson learnt
